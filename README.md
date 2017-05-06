@@ -1,0 +1,2 @@
+# ApachePig
+Sample Pig Scripts
